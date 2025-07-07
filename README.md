@@ -9,7 +9,7 @@ This repository showcases all tasks completed during the internship, categorized
 
 | Task | Description |
 |------|-------------|
-| ✅ Task 1 | [Data Preprocessing for Machine Learning](./Level_1(Basic)/Task_1_Data_Preprocessing.ipynb) <br>• Handle missing values <br>• Encode categorical features <br>• Normalize and split data |
+| ✅ Task 1 | [Data Preprocessing for Machine Learning](./Level_1/Task_1_Data_Preprocessing.ipynb) <br>• Handle missing values <br>• Encode categorical features <br>• Normalize and split data |
 | ✅ Task 2 | [Build a Simple Linear Regression Model](./Level_1/Task_2_Linear_Regression.ipynb) <br>• Predict continuous values using `LinearRegression` |
 | ✅ Task 3 | [K-Nearest Neighbors (KNN) Classifier](./Level_1/Task_3_KNN_Classifier.ipynb) <br>• Implement KNN for classification problems |
 
