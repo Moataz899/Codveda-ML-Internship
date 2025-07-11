@@ -56,3 +56,12 @@ Codveda-ML-Internship/
 │   └── Task_3_Neural_Networks.ipynb
 │
 └── README.md
+```
+---
+##  About the Intern : 
+
+👨‍💻 **Abdelraouf Dahy Abdelraouf Mohammed**
+
+This repository captures my transformative journey through the Codveda Machine Learning Internship. Each project reflects my dedication to mastering machine learning techniques and applying them to tackle real-world challenges with precision and creativity.
+
+---
